@@ -4,7 +4,7 @@ import miCarrito from '../assets/img/carrito.png'
 import CartWidget from './CartWidget'
 
 
-const NavBar = () => {
+const NavBar = ({valorCounter}) => {
   return (
     <div className="navbar bg-slate-300 px-4">
         <div className="navbar-start">
@@ -57,7 +57,7 @@ const NavBar = () => {
             </ul>
         </div>
         <div className="navbar-end px-1.5">
-            <CartWidget />
+            <CartWidget ctd={valorCounter} />
         </div>
     </div>
   )
