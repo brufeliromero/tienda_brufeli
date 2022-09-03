@@ -5,7 +5,7 @@ const ItemListContainer = ({greeting}) => {
   return (
     <>
       <div className='text-xl'>{greeting}</div>
-      <ItemCount />
+      <ItemCount stock='10' initial='1' />
     </>
   )
 }
