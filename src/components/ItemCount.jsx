@@ -23,7 +23,7 @@ const ItemCount = ( { stock, initial,  onAdd } ) => {
   }
 
   return (
-    <div className='m-5 w-80'>
+    <div className='m-5 w-80 bg-gray-200 rounded-md'>
         <h3 className='text-center'>Producto Tienda</h3>
         <div className='text-center'>
           <button onClick={restarProducto} className='btn m-5'>-</button>
