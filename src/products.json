@@ -1,0 +1,42 @@
+[
+  {
+    "id":"1",
+    "title":"Cupcake de Vainilla",
+    "price":"$ 500",
+    "img":"./img/cupcake_1.jpg",
+    "stock":"5",
+    "initial":"1"
+  },
+  {
+    "id":"2",
+    "title":"Cupcake de Chocolate",
+    "price":"$ 450",
+    "img":"./img/cupcake_2.jpg",
+    "stock":"3",
+    "initial":"1"
+  },
+  {
+    "id":"3",
+    "title":"Cupcake de Choco Vainilla",
+    "price":"$ 600",
+    "img":"./img/cupcake_3.jpg",
+    "stock":"7",
+    "initial":"1"
+  },
+  {
+    "id":"4",
+    "title":"Cupcake de Moras",
+    "price":"$ 800",
+    "img":"./img/cupcake_4.jpg",
+    "stock":"6",
+    "initial":"1"
+  },
+  {
+    "id":"5",
+    "title":"Cupcake de Multi Sabor",
+    "price":"$ 650",
+    "img":"./img/cupcake_5.jpg",
+    "stock":"12",
+    "initial":"1"
+  }
+]
